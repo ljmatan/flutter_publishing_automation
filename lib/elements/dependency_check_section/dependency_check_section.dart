@@ -1,4 +1,4 @@
-part of 'publishing_services.dart';
+part of '../../publishing_services.dart';
 
 class _DependencyEntry extends StatefulWidget {
   final String dependency;
