@@ -1,0 +1,1 @@
+library flutter_publishing_automation;
